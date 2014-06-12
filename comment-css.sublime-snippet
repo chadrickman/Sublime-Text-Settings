@@ -1,0 +1,12 @@
+<!-- 
+	CSS Comment Snippet
+-->
+
+<snippet>
+  <content><![CDATA[
+/* ${1}
+----------------------------------------------------------------------------------------------------*/
+]]></content>
+  <tabTrigger>`</tabTrigger>
+  <scope>source.css</scope>
+</snippet>

@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+	
+	"close_windows_when_empty": true,
+
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+
+	"scroll_past_end": true,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	
+	// "font_face": "Source Code Pro",
+    // "font_size": 11.0,
+
+
+	"folder_exclude_patterns":
+	[
+	".git",
+	".bundle",
+	".sass-cache",
+	".svn",
+	".hg"
+	]
+}
